@@ -6,3 +6,9 @@ child.log
 debug.log
 search.txt
 test/output.xml
+test/assets/*.locks
+test/assets/litmus
+node_modules/asyncjs
+node_modules/formidable
+node_modules/libxml
+
